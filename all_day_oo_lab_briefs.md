@@ -1,16 +1,12 @@
 # Pair Programming Lab - ## Pub
-
 Work one one laptop and Git commit regularly!
-
 Remember to use TDD.
 
-In pairs, plan and create an object oriented model of a Pub, with Drinks and Customers!
-
 ### MVP
-  - A `Pub` should have a `name`, a `till`, and a collection of `drinks`
-  - A `Drink` should have a `name`, and a `price`
-  - A `Customer` should have a `name`, and a `wallet`
-  - A `Customer` should be able to buy a `Drink` from the `Pub`, reducing the money in its `wallet` and increasing the money in the `Pub`'s `till`
+  <!-- - A `Pub` should have a `name`, a `till`, and a collection of `drinks` -->
+  <!-- - A `Drink` should have a `name`, and a `price` -->
+  <!-- - A `Customer` should have a `name`, and a `wallet` -->
+  <!-- - A `Customer` should be able to buy a `Drink` from the `Pub`, reducing the money in its `wallet` and increasing the money in the `Pub`'s `till` -->
 
 ### Extensions
   - Add an `age` to the `Customer`. Make sure the `Pub` checks the `age` before serving the `Customer`.
